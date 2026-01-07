@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.26)
-project(JeuTropStylee C)
+project(Jeu_Coree_2024 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(JeuTropStylee
+add_executable(Jeu_Coree_2024
         code/fin.c
         code/grotte.c
         code/main.c
@@ -13,4 +13,4 @@ add_executable(JeuTropStylee
 
 
 # On lie Allegro 4
-target_link_libraries(JeuTropStylee -lmingw32 -lalleg44 )
+target_link_libraries(Jeu_Coree_2024 -lmingw32 -lalleg44 )

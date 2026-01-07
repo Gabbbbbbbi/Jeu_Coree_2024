@@ -1,4 +1,0 @@
-ToolSet: 5.0 (local)@D:\ECE\ING1-2premier-semestre\Algo\MinGW
-Options: 
-
-Options:-DCMAKE_MAKE_PROGRAM=D:/Users/gabri/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe

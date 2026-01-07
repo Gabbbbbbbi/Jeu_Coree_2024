@@ -9,16 +9,16 @@ int jeu_grotte(Modification *modif){
     int taille_map_y = 2880;
     buffer = create_bitmap(taille_map_x, taille_map_y);
     clear_to_color(buffer, makecol(255, 255, 255));
-    map = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/grotte.bmp",NULL);
-    collision = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/collision_grotte.bmp",NULL);
-    Normal[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_d.bmp",NULL);
-    Normal[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_q.bmp",NULL);
-    Coursedroite[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_1.bmp",NULL);
-    Coursedroite[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_2.bmp",NULL);
-    Coursegauche[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_1.bmp",NULL);
-    Coursegauche[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_2.bmp",NULL);
-    Surf[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_d.bmp",NULL);
-    Surf[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_q.bmp",NULL);
+    map = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/grotte.bmp",NULL);
+    collision = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/collision_grotte.bmp",NULL);
+    Normal[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_d.bmp",NULL);
+    Normal[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_q.bmp",NULL);
+    Coursedroite[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_1.bmp",NULL);
+    Coursedroite[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_2.bmp",NULL);
+    Coursegauche[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_1.bmp",NULL);
+    Coursegauche[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_2.bmp",NULL);
+    Surf[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_d.bmp",NULL);
+    Surf[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_q.bmp",NULL);
 
 
 
@@ -115,8 +115,8 @@ int jeu_grotte(Modification *modif){
 
 void zoom_grotte(BITMAP *map,BITMAP *affiche,Grotte *grotte){
     BITMAP *buffer,*pnj,*dialogue;
-    pnj=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/pnj_grotte.bmp",NULL);
-    dialogue=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_pnj_grotte.bmp",NULL);
+    pnj=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/pnj_grotte.bmp",NULL);
+    dialogue=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_pnj_grotte.bmp",NULL);
     int taille_map_x = 1920;
     int taille_map_y = 2880;
     buffer = create_bitmap(taille_map_x, taille_map_y);
@@ -208,7 +208,7 @@ int collisionjoueur_grotte(int n, Grotte*grotte, BITMAP *collision, Modification
 void dialogue_grotte() {
     BITMAP *buffer, *dialogue;
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    dialogue = load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_pnj_grotte.bmp", NULL);
+    dialogue = load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_pnj_grotte.bmp", NULL);
     while (!key[KEY_F]) {
         blit(dialogue, buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
         blit(buffer, screen, 0, 0, 0, 0, SCREEN_W, SCREEN_H);

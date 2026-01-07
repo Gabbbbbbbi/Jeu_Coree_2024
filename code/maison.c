@@ -8,24 +8,24 @@ int function_maison(int depart,Modification *modif){
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
 
     BITMAP *inside[5],*Normal[4],*Coursedroite[2],*Coursegauche[2],*Coursehaut[2],*Coursebas[2],*collision_int[2];
-    inside[0]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/interieur.bmp",NULL);
-    inside[1]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/interieur2.bmp",NULL);
-    inside[2]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/interieur_cuisine.bmp",NULL);
-    inside[3]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/interieur_cuisine2.bmp",NULL);
-    Normal[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_d.bmp",NULL);
-    Normal[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_q.bmp",NULL);
-    Normal[2]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_z.bmp",NULL);
-    Normal[3]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_s.bmp",NULL);
-    Coursedroite[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_1.bmp",NULL);
-    Coursedroite[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_2.bmp",NULL);
-    Coursegauche[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_1.bmp",NULL);
-    Coursegauche[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_2.bmp",NULL);
-    Coursehaut[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_z_1.bmp",NULL);
-    Coursehaut[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_z_2.bmp",NULL);
-    Coursebas[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_s_1.bmp",NULL);
-    Coursebas[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_s_2.bmp",NULL);
-    collision_int[0] = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/collision_interieur.bmp",NULL);
-    collision_int[1] = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/collision_interieur_cuisine.bmp",NULL);
+    inside[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/interieur.bmp",NULL);
+    inside[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/interieur2.bmp",NULL);
+    inside[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/interieur_cuisine.bmp",NULL);
+    inside[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/interieur_cuisine2.bmp",NULL);
+    Normal[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_d.bmp",NULL);
+    Normal[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_q.bmp",NULL);
+    Normal[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_z.bmp",NULL);
+    Normal[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_s.bmp",NULL);
+    Coursedroite[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_1.bmp",NULL);
+    Coursedroite[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_2.bmp",NULL);
+    Coursegauche[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_1.bmp",NULL);
+    Coursegauche[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_2.bmp",NULL);
+    Coursehaut[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_z_1.bmp",NULL);
+    Coursehaut[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_z_2.bmp",NULL);
+    Coursebas[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_s_1.bmp",NULL);
+    Coursebas[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_s_2.bmp",NULL);
+    collision_int[0] = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/collision_interieur.bmp",NULL);
+    collision_int[1] = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/collision_interieur_cuisine.bmp",NULL);
 
     Maison* maison = malloc(sizeof (Maison));
     int current_frame = 0;
@@ -122,8 +122,8 @@ int function_maison(int depart,Modification *modif){
 void interieur(BITMAP *affiche,BITMAP *inside,Maison *maison){
     BITMAP *buffer,*png[2];
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    png[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/sel.bmp",NULL);
-    png[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/poivre.bmp",NULL);
+    png[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/sel.bmp",NULL);
+    png[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/poivre.bmp",NULL);
     //printf("Avant déplacement : X_mario_int = %d, Y_mario_int = %d\n", coord->X_mario_int, coord->Y_mario_int);
 
     blit(inside,buffer,0,0,0,0,SCREEN_W,SCREEN_H);
@@ -177,8 +177,8 @@ int verification_interieur(BITMAP *collision, Maison *maison){
 void dialogue_int(Maison *maison){
     BITMAP *buffer,*dialogue[2];
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    dialogue[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_sel.bmp",NULL);
-    dialogue[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_poivre.bmp",NULL);
+    dialogue[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_sel.bmp",NULL);
+    dialogue[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_poivre.bmp",NULL);
     while (!key[KEY_F]) {
         if (maison->numero==3){
             blit(dialogue[0], buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);

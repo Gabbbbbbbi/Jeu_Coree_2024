@@ -1,1 +1,4 @@
-CMakeLists.txt not found in D:\Jeu_Coree_2024 Select CMakeLists.txt
+"C:\Program Files\JetBrains\CLion 2025.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Projet-Perso\Jeu_Coree_2024 -B C:\Projet-Perso\Jeu_Coree_2024\cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Projet-Perso/Jeu_Coree_2024/cmake-build-debug

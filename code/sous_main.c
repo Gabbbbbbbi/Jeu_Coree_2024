@@ -195,14 +195,14 @@ void zoom(BITMAP *map, BITMAP *dessus,BITMAP *affiche,Coord *coord,Modification 
     int taille_map_x = 3200;
     int taille_map_y = 2560;
     buffer = create_bitmap(taille_map_x, taille_map_y);
-    obstacle[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/barriere.bmp",NULL);
-    obstacle[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/marchand.bmp",NULL);
-    obstacle[2]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cle.bmp",NULL);
-    obstacle[3]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/flower.bmp",NULL);
-    obstacle[4]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/poisson.bmp",NULL);
-    obstacle[5]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/nature.bmp",NULL);
-    pnj=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/pnj.bmp",NULL);
-    e=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/e.bmp",NULL);
+    obstacle[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/barriere.bmp",NULL);
+    obstacle[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/marchand.bmp",NULL);
+    obstacle[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cle.bmp",NULL);
+    obstacle[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/flower.bmp",NULL);
+    obstacle[4]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/poisson.bmp",NULL);
+    obstacle[5]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/nature.bmp",NULL);
+    pnj=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/pnj.bmp",NULL);
+    e=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/e.bmp",NULL);
 
     int pb_x=0;
     int pb_y=0;
@@ -340,10 +340,10 @@ int changement(BITMAP *buffer,BITMAP *obstacle[6],Modification *modif){
 void dialogue(Modification *modif){
     BITMAP *buffer,*dialogue[4],*dialoguepnj;
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    dialogue[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue.bmp",NULL);
-    dialogue[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue2.bmp",NULL);
-    dialogue[2]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue3.bmp",NULL);
-    dialogue[3]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue4.bmp",NULL);
+    dialogue[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue.bmp",NULL);
+    dialogue[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue2.bmp",NULL);
+    dialogue[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue3.bmp",NULL);
+    dialogue[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue4.bmp",NULL);
 
 
     if(modif->dialogue==0) {
@@ -399,8 +399,8 @@ int verification_poisson(Modification *modif) {
 void dialogue_demarrage(Modification *modif){
     BITMAP *buffer,*dialoguepnj,*dialoguepnj2;
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    dialoguepnj=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_pnj.bmp",NULL);
-    dialoguepnj2=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/dialogue_pnj2.bmp",NULL);
+    dialoguepnj=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_pnj.bmp",NULL);
+    dialoguepnj2=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/dialogue_pnj2.bmp",NULL);
     while (!key[KEY_F]) {
         if(modif->cle1!=1 && modif->cle2!=1 && modif->cle3!=1){
             blit(dialoguepnj, buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
@@ -417,8 +417,8 @@ void dialogue_demarrage(Modification *modif){
 void dialogue_arbre(Modification *modif){
     BITMAP *buffer,*Foret[2];
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    Foret[0]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/Foret.bmp",NULL);
-    Foret[1]=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/Foret2.bmp",NULL);
+    Foret[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/Foret.bmp",NULL);
+    Foret[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/Foret2.bmp",NULL);
     while (!key[KEY_F]) {
         if (!(modif->nature1==1 && modif->nature2==1 && modif->nature3==1)) {
             blit(Foret[0], buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
@@ -437,7 +437,7 @@ void dialogue_arbre(Modification *modif){
 void dialogue_coffre(Modification *modif){
     BITMAP *buffer,*Moche;
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    Moche=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/Moche.bmp",NULL);
+    Moche=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/Moche.bmp",NULL);
     while (!key[KEY_F]) {
         blit(Moche, buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
         blit(buffer, screen, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
@@ -525,8 +525,8 @@ void lecture_joueur(Modification *modif,Coord *coord){
 int ecran_acceuil(Modification *modif,Coord *coord){
     BITMAP *buffer,*fond,*souris;
     buffer = create_bitmap(SCREEN_W, SCREEN_H);
-    fond=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/ecran_accueil.bmp",NULL);
-    souris=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/souris.bmp",NULL);
+    fond=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/ecran_accueil.bmp",NULL);
+    souris=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/souris.bmp",NULL);
     while (!key[KEY_ESC]) {
         blit(fond, buffer, 0, 0, 0, 0, SCREEN_W, SCREEN_H);
         show_mouse(buffer);

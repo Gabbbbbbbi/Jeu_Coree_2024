@@ -22,27 +22,27 @@ int main() {
     int taille_map_y = 2560;
     buffer = create_bitmap(taille_map_x, taille_map_y);
     clear_to_color(buffer, makecol(255, 255, 255));
-    map = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/map.bmp",NULL);
-    collision = load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/collision.bmp",NULL);
-    dessus=load_bitmap("D:/JeuTropStylee/decor_map/Mappourallegro/dessus.bmp",NULL);
-    Normal[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_d.bmp",NULL);
-    Normal[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_q.bmp",NULL);
-    Normal[2]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_z.bmp",NULL);
-    Normal[3]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/normal_s.bmp",NULL);
-    Coursedroite[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_1.bmp",NULL);
-    Coursedroite[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_d_2.bmp",NULL);
-    Coursegauche[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_1.bmp",NULL);
-    Coursegauche[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_q_2.bmp",NULL);
-    Coursehaut[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_z_1.bmp",NULL);
-    Coursehaut[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_z_2.bmp",NULL);
-    Coursebas[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_s_1.bmp",NULL);
-    Coursebas[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/cour_s_2.bmp",NULL);
-    marchand=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/marchand.bmp",NULL);
-    surf[0]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_d2.bmp",NULL);
-    surf[1]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_q2.bmp",NULL);
-    surf[2]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_z2.bmp",NULL);
-    surf[3]=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/surf_s2.bmp",NULL);
-    e=load_bitmap("D:/JeuTropStylee/decor_map/Sprite/e.bmp",NULL);
+    map = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/map.bmp",NULL);
+    collision = load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/collision.bmp",NULL);
+    dessus=load_bitmap("D:/Jeu_Coree_2024/decor_map/Mappourallegro/dessus.bmp",NULL);
+    Normal[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_d.bmp",NULL);
+    Normal[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_q.bmp",NULL);
+    Normal[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_z.bmp",NULL);
+    Normal[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/normal_s.bmp",NULL);
+    Coursedroite[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_1.bmp",NULL);
+    Coursedroite[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_d_2.bmp",NULL);
+    Coursegauche[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_1.bmp",NULL);
+    Coursegauche[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_q_2.bmp",NULL);
+    Coursehaut[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_z_1.bmp",NULL);
+    Coursehaut[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_z_2.bmp",NULL);
+    Coursebas[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_s_1.bmp",NULL);
+    Coursebas[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/cour_s_2.bmp",NULL);
+    marchand=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/marchand.bmp",NULL);
+    surf[0]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_d2.bmp",NULL);
+    surf[1]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_q2.bmp",NULL);
+    surf[2]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_z2.bmp",NULL);
+    surf[3]=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/surf_s2.bmp",NULL);
+    e=load_bitmap("D:/Jeu_Coree_2024/decor_map/Sprite/e.bmp",NULL);
 
 
 
