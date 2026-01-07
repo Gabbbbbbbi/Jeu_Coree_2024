@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3754697-3f0b-4c98-8575-6deb15c1149b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JeuTropStylee.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8874055112eaeb6acceb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-65c6c43294944cdd37bf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e3b78cf3b96266450efc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-01-07T13-28-55-0252.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-JeuTropStylee-Debug-06c0b5703ec04b367943.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bff3f025b8979814c38a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JeuTropStylee.dir/code/fin.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JeuTropStylee.dir/code/grotte.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JeuTropStylee.dir/code/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JeuTropStylee.dir/code/maison.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/JeuTropStylee.dir/code/sous_main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/JeuTropStylee.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/sauv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/fin.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/grotte.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/maison.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/sous_main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Chateau decors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Chateau sol.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Chateau.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Escalier chateau.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Grotte.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Grotte/( D&amp;K ) Caves Tile V.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Grotte/Tiles &amp; Example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/INTERIEUR 32x32.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Intérieur 16x16.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/MUR 32x32 JAUNE.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/MUR 32x32 ROUGE.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/MUR 32x32.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Maison.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/Foret.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/Foret2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_fin.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_fin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_grotte.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_grotte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_interieur.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_interieur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_interieur_cuisine.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/collision_interieur_cuisine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/dessus.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/dessus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/ecran_accueil.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/ecran_accueil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/grotte.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/grotte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur_cuisine.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur_cuisine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur_cuisine2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/interieur_cuisine2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/map.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/map_fin.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Mappourallegro/map_fin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_idle_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_idle_anim_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_phone_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_run_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_sit2_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_sit3_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Adam_sit_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_idle_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_idle_anim_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_phone_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_run_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_sit2_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_sit3_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Alex_sit_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_idle_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_idle_anim_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_phone_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_run_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_sit2_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_sit3_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Amelia_sit_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_idle_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_idle_anim_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_phone_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_run_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_sit2_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_sit3_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/Bob_sit_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Characters_free/RPGMAKERMV/Characters_MV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/16x16/Interiors_free_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/16x16/Room_Builder_free_16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32/Interiors_free_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32/Room_Builder_free_32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/48x48/Interiors_free_48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/48x48/Room_Builder_free_48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_16x16_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_32x32_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/Tileset_48x48_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/idle_16x16_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/idle_32x32_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/idle_48x48_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/mv/Character_2_16x16_RPGMAKER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/mv/Character_2_32x32_RPGMAKER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/mv/Character_2_48x48_RPGMAKER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/run_horizontal_16x16_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/run_horizontal_32x32_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/Old/run_horizontal_48x48_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/READ ME.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Modern_Interiors_Free_v2.2/Modern tiles_Free/free_overview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Barrel.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Barrel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Box.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_enter.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_enter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Building_1_yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Chair_1.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Chair_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Chest.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tiles.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tree_1.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tree_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tree_2.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/Tree_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/stump.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/stump.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/table_1.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/table_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/table_2.aseprite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/NorthLand/table_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Document.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Pixel Art Top Down - Basic.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Plant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Props.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Shadow Plant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Struct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Tileset Grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Tileset Stone Ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture/TX Tileset Wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/Moche.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/Sans titre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/barriere.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/caca.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/caqca.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cle.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_d_1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_d_2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_q_1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_q_2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_s_1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_s_2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_z_1.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/cour_z_2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue3.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue4.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_pnj.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_pnj2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_pnj_grotte.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_poivre.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_poivre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_sel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/dialogue_sel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/e.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/flower.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/marchand.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/nature.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/normal_d.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/normal_q.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/normal_s.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/normal_z.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/perso.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/planche.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/pnj.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/pnj_grotte.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/poisson.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/poivre.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/sel.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/souris.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_d.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_d2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_q.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_q2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_s.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_s2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_z.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/surf_z2.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Sprite/texte_fin.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/Tiles.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/barriere.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/ecran_accueil.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/grotte.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/interieur.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/interieur2.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/interieur_cuisine.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/interieur_cuisine2.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/maison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/map.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/map_fin.tmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/mapjeu.tiled-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/mapjeu.tiled-session" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/Read-me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/slime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_alex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_anna.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_ardley.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_colt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_ester.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/spr_tom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decor_map/raou_free_top_down_adventure/topDown_baseTiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapjeu.tiled-session" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="37w86iRlk1aLSx9CfhbreoWm5FG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3754697-3f0b-4c98-8575-6deb15c1149b" name="Changes" comment="" />
+      <created>1767802601703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767802601703</updated>
+      <workItem from="1767802603440" duration="61000" />
+      <workItem from="1767802678637" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
