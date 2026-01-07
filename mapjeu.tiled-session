@@ -1,0 +1,202 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "decor_map/ecran_accueil.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "decor_map"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "TEST.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/Chateau decors.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "decor_map/Chateau sol.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "decor_map/Chateau.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/Escalier chateau.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "decor_map/Grotte.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "decor_map/INTERIEUR 16X16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/INTERIEUR 32x32.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "decor_map/Intérieur 16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "decor_map/MUR 32x32 JAUNE.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/MUR 32x32 ROUGE.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "decor_map/MUR 32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/Maison.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "decor_map/Tiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "decor_map/barriere.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/decor_map/Maison.tsx": {
+            "scaleInDock": 1
+        },
+        "decor_map/ecran_accueil.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 872,
+                "y": 618
+            }
+        },
+        "decor_map/grotte.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961,
+                "y": 1441
+            }
+        },
+        "decor_map/interieur.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 639.9999999999999,
+                "y": 383.33333333333326
+            }
+        },
+        "decor_map/interieur2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 577,
+                "y": 383.5
+            }
+        },
+        "decor_map/interieur_cuisine.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 563,
+                "y": 383.25
+            }
+        },
+        "decor_map/interieur_cuisine2.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 578,
+                "y": 384.33333333333337
+            }
+        },
+        "decor_map/intérieur.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 749,
+                "y": 495.5
+            }
+        },
+        "decor_map/maison.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "decor_map/map.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1572.727272727273,
+                "y": 1210.6060606060607
+            }
+        },
+        "decor_map/map_fin.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320,
+                "y": 799
+            }
+        },
+        "map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2760,
+                "y": 2047.5
+            }
+        }
+    },
+    "last.exportedFilePath": "D:/JeuTropBien/decor_map/Mappourallegro",
+    "last.externalTilesetPath": "D:/JeuTropBien/decor_map",
+    "last.imagePath": "D:/JeuTropBien/decor_map/Pixel Art Top Down - Basic v1.1.2/Texture",
+    "map.height": 45,
+    "map.lastUsedExportFilter": "Tous les Fichiers (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "decor_map/map_fin.tmx",
+        "decor_map/Tiles.tsx",
+        "decor_map/Chateau.tsx",
+        "decor_map/Chateau decors.tsx",
+        "decor_map/Chateau sol.tsx",
+        "decor_map/Escalier chateau.tsx",
+        "decor_map/map.tmx",
+        "decor_map/grotte.tmx",
+        "decor_map/Grotte.tsx",
+        "decor_map/Maison.tsx",
+        "decor_map/ecran_accueil.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "decor_map/map_fin.tmx",
+        "decor_map/Tiles.tsx",
+        "decor_map/Chateau.tsx",
+        "decor_map/Chateau decors.tsx",
+        "decor_map/Chateau sol.tsx",
+        "decor_map/Escalier chateau.tsx",
+        "decor_map/map.tmx",
+        "decor_map/grotte.tmx",
+        "decor_map/Grotte.tsx",
+        "decor_map/Maison.tsx",
+        "decor_map/ecran_accueil.tmx",
+        "decor_map/MUR 32x32.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "TEST.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "decor_map/Tiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "decor_map/maison.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/JeuTropBien/decor_map",
+    "map.height": 160,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+    ],
+    "project": "mapjeu.tiled-project",
+    "recentFiles": [
+        "decor_map/Tiles.tsx",
+        "decor_map/maison.tsx",
+        "TEST.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
